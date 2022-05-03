@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{BF3530EE-7B53-4487-81CB-912CFCEF4CFA}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Extension_task1/Extension.cs">
+    <Files>
+      <File FileName="Extension_task1/Program.cs" Line="11" Column="40" />
+      <File FileName="Extension_task1/Extension.cs" Line="26" Column="1" />
+      <File FileName="Extension_task1/Substrin.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Extension_task1" expanded="True">
+            <Node name="Extension_task1" expanded="True">
+              <Node name="Extension.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Extension__task1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
